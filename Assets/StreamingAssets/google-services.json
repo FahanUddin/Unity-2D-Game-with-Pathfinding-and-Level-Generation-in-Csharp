@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "710942821636",
+    "firebase_url": "https://unity2dcoopgame-default-rtdb.firebaseio.com",
+    "project_id": "unity2dcoopgame",
+    "storage_bucket": "unity2dcoopgame.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710942821636:android:d8153af334156cc469d451",
+        "android_client_info": {
+          "package_name": "com.company.unity2dcoopgame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcpT5dEfAzrkVTZgm2VmW-ILw_M-dwxJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

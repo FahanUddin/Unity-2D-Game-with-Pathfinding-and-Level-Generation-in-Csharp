@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c2688ecebf23e4262b51a1863521974f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 180967
+  packageName: Spaceman
+  packageVersion: 1.0
+  assetPath: Assets/hero/fly/hero_fly_0001.controller
+  uploadId: 407638
